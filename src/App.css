@@ -18,3 +18,9 @@ nav {
   align-items: center;
   list-style: none;
 }
+
+.real-deal {
+  font-size: 36px;
+  color: red; 
+  font-weight: lighter;
+}
